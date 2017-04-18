@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "target": "ES5",
+    "outDir": "app",
+    "module": "commonjs"
+  },
+  "files": [
+    "typings/tsd.d.ts",
+    "src/scripts/app.ts"
+  ]
+}
