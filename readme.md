@@ -13,5 +13,13 @@
 * [TypeScript + webpack で HelloWorld](http://qiita.com/h-kamitomo/items/77e4c8494183c8b98157)
 * [TypeScript でフロントエンドを実装する](http://blog.syati.info/post/typescript_webpack/)
 
+## set up
+```
+npm install
+npm install typescript -g
+npm link typescript
+webpack
+```
+
 ## todo
-* not yet npm install typescript --save-dev
+* have error with `npm install typescript --save-dev`
