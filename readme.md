@@ -1,7 +1,10 @@
-# typescript with webpack
+# typescript概要
 
 ## purpose
 * learn how to use and compile typescript
+
+## what is included in this repo
+* typescript with webpack
 
 ## what is typescript
 
@@ -23,3 +26,6 @@ webpack
 
 ## todo
 * have error with `npm install typescript --save-dev`
+
+## 仕様
+* [公式リファレンス](https://www.typescriptlang.org/docs/handbook/basic-types.html)
